@@ -34,7 +34,7 @@ additional_links:
   icon: fab fa-researchgate
   url: https://www.researchgate.net/profile/Bartosz-Stanek
 - title: CV
-  icon: fab fa-cv
+  icon: fa fa-file-text-o
   url: Link url (eg. https://google.com)
 
 orcid_username: 0000-0002-4136-4092
