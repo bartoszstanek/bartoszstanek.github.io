@@ -27,8 +27,6 @@ linkedin_username: bartoszstanek
 #pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
-
-
 # Additional icon links
 additional_links:
 - title: researchgate.net
@@ -37,7 +35,9 @@ additional_links:
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
+
 orcid_username: 0000-0002-4136-4092
+
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
