@@ -96,26 +96,22 @@ content:
         caption: 2019 - now
         sub_title: PhD Candidate
         #quote: >
-          
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
+          During
         
       - layout: left
         title: Silesian University of Technology
         caption: 2018 - 2019
         sub_title: BSc Power Engineering
         #quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at
+          During
           
       - layout: left
         title: Silesian University of Technology
         caption: 2014 - 2018
         sub_title: BSc Power Engineering
         #quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
