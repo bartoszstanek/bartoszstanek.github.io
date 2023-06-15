@@ -14,5 +14,5 @@
   "name": "modern-resume-theme",
   "scripts": {
   },
-  "stack": "heroku-20"
+  "stack": "heroku-18"
 }
