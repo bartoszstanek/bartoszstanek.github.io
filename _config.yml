@@ -51,8 +51,13 @@ about_profile_image: images/bartoszstanek.jpg
 about_content: | # this will include new lines to allow paragraphs
   Enthusiast of renewable energy sources, energy storage and new technologies, power engineer with specialisation in solar PV and thermal. Five years of experience working in an international group as a researcher and collaborating with industry, with practical and theoretical skills in research and modelling of renewable energy technologies. Author of a PhD thesis, whose public defence is soon about to take place. I am an ambitious engineer who values collaboration, development and constant learning.
   
-  Check out my Linkedin profile or download my CV for details.
+  Check out my [Linkedin](https://www.linkedin.com/in/bartoszstanek/) profile or download my [CV](https://drive.google.com/file/d/1hmtRlQrwEgOEipheNJ4DvDHkpZLXLj8V/view?usp=sharing) for details.
   
+  
+  # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+   #   Look at this cool image  
+  #    ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 content:
  # - title: Projects # Title for the section
