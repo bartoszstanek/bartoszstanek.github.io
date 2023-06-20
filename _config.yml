@@ -54,10 +54,9 @@ about_content: | # this will include new lines to allow paragraphs
   Check out my [Linkedin](https://www.linkedin.com/in/bartoszstanek/) profile or download my [CV](https://drive.google.com/file/d/1hmtRlQrwEgOEipheNJ4DvDHkpZLXLj8V/view?usp=sharing) for details.
   
   
-  # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-   #   Look at this cool image  
-  #    ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+  
 
 content:
  # - title: Projects # Title for the section
